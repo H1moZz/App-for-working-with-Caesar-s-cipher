@@ -1,0 +1,11 @@
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\CezarHack.csproj.AssemblyReference.cache
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\CezarHack.About.resources
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\CezarHack.Form1.resources
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\CezarHack.Form2.resources
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\Forms_Vzlom_Shifra_Cezarya.Properties.Resources.resources
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\CezarHack.csproj.GenerateResource.cache
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\CezarHack.csproj.CoreCompileInputs.cache
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\Forms_Vzlom_Shifra_Cezarya.exe
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\Forms_Vzlom_Shifra_Cezarya.pdb
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\Forms_Vzlom_Shifra_Cezarya.Form1.resources
+F:\3 курс\РПМ\КУРСАЧ\Forms_Vzlom_Shifra_Cezarya\Forms_Vzlom_Shifra_Cezarya\obj\Debug\Forms_Vzlom_Shifra_Cezarya.Form2.resources

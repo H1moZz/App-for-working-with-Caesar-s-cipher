@@ -1,0 +1,11 @@
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Release\Lib_Vzlom_Cesarya.dll
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Release\Lib_Vzlom_Cesarya.pdb
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Release\Lib_Vzlom_Cesarya.csprojAssemblyReference.cache
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Release\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Release\Lib_Vzlom_Cesarya.dll
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Release\Lib_Vzlom_Cesarya.pdb
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Release\Lib_Vzlom_Cesarya.dll
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Release\Lib_Vzlom_Cesarya.pdb
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Release\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Release\Lib_Vzlom_Cesarya.dll
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Release\Lib_Vzlom_Cesarya.pdb

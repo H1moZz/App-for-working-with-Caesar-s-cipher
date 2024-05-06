@@ -1,0 +1,42 @@
+D:\Danya\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.dll
+D:\Danya\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.pdb
+D:\Danya\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.AssemblyReference.cache
+D:\Danya\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+D:\Danya\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.dll
+D:\Danya\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.pdb
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.dll
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.pdb
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csprojAssemblyReference.cache
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.dll
+E:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.pdb
+H:\Шабанов\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.dll
+H:\Шабанов\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.pdb
+H:\Шабанов\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csprojAssemblyReference.cache
+H:\Шабанов\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+H:\Шабанов\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.dll
+H:\Шабанов\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.pdb
+C:\ШАРАГА\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.dll
+C:\ШАРАГА\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.pdb
+C:\ШАРАГА\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.AssemblyReference.cache
+C:\ШАРАГА\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+C:\ШАРАГА\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.dll
+C:\ШАРАГА\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.pdb
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.dll
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.pdb
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csprojAssemblyReference.cache
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.dll
+D:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.pdb
+C:\ШАРАГА\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.dll
+C:\ШАРАГА\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.pdb
+C:\ШАРАГА\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.AssemblyReference.cache
+C:\ШАРАГА\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+C:\ШАРАГА\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.dll
+C:\ШАРАГА\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.pdb
+F:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.dll
+F:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\bin\Debug\Lib_Vzlom_Cesarya.pdb
+F:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.AssemblyReference.cache
+F:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.csproj.CoreCompileInputs.cache
+F:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.dll
+F:\3 курс\РПМ\КУРСАЧ\Lib_Vzlom_Cesarya\Lib_Vzlom_Cesarya\obj\Debug\Lib_Vzlom_Cesarya.pdb
